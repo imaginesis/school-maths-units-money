@@ -1,0 +1,51 @@
+{
+  "title": "Units of measurement and money in school mathematics across 10 countries",
+  "upload_type": "dataset",
+  "description": "Units of measurement and money in the school mathematics of 10 countries (Austria, France, Germany, Italy, the Netherlands, Poland, Spain, Switzerland, the United Kingdom, the United States): measurement systems, whether the decagram and the are/hectare are school units, imperial and customary units, unit symbols used in word problems, and money - currency symbol and its position, minor unit, coins and banknotes - with the curriculum documents each value was read from. Prepared by Imaginesis (https://imaginesis.com), a maths worksheet generator.",
+  "creators": [
+    {
+      "name": "Imaginesis"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": [
+    "mathematics education",
+    "units of measurement",
+    "metric system",
+    "customary units",
+    "currency",
+    "coins",
+    "localization",
+    "word problems",
+    "K-12",
+    "open data"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://imaginesis.com",
+      "relation": "isSupplementTo",
+      "resource_type": "other"
+    },
+    {
+      "identifier": "10.5281/zenodo.23451054",
+      "relation": "references",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "10.5281/zenodo.23217841",
+      "relation": "references",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "10.5281/zenodo.23451451",
+      "relation": "references",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://imaginesis.com/en/curricula",
+      "relation": "isDocumentedBy",
+      "resource_type": "other"
+    }
+  ]
+}

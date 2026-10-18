@@ -1,0 +1,11 @@
+country,measurement_systems,decagram_dag,are_and_hectare,imperial_or_customary_units,symbols_length,symbols_area,symbols_volume,symbols_mass,sources
+US,customary metric,no,no,"yes (customary first, metric second)",cm ft in m,cm² dm² in² m²,cm³ dm³ gal in³ l ml qt,g kg lb oz,"CCSS 4.MD.A.1: km, m, cm; kg, g; lb, oz; l, ml; hr, min, sec"
+GB,metric,no,no,approximate equivalences only (Years 5-6),cm m,cm² dm² m²,cm³ dm³ l ml,g kg,"National Curriculum in England: metric units; Year 5-6 approximate equivalences with inches, pounds, pints"
+DE,metric_a metric,no,yes,no,cm m,a cm² dm² ha m²,cm³ dm³ l ml,g kg,"German schools: masses in g/kg (no decagram); area units m², a, ha (Flächeneinheiten)"
+AT,metric_dag metric_a metric,yes,yes,no,cm m,a cm² dm² ha m²,cm³ dm³ l ml,dag g kg,"Lehrplan BGBl. II Nr. 1/2023: kg, dag, m, dm, cm, ℓ from 2nd grade ('1 kg 20 dag'); km², ha, a, m² in 4th grade"
+CH,metric_a metric,no,yes,no,cm m,a cm² dm² ha m²,cm³ dm³ l ml,g kg,"Lehrplan 21: Flächenmasse km², ha, a, m²; Gewichte t, kg, g, mg (no decagram)"
+FR,metric,no,no,no,cm m,cm² dm² m²,cm³ dm³ l ml,g kg,"Programme cycle 3 (BO n° 16, 17 avril 2025): area in cm², dm², m² (are and hectare no longer listed); masses from milligram to kilogram"
+ES,metric_dag metric_a metric,yes,yes,no,cm m,a cm² dm² ha m²,cm³ dm³ l ml,dag g kg,"RD 157/2022: 'Sistema Métrico Decimal (longitud, masa, capacidad, volumen y superficie)' without a closed list"
+IT,metric_dag metric_a metric,yes,yes,no,cm m,a cm² dm² ha m²,cm³ dm³ l ml,dag g kg,Indicazioni nazionali; Italian primary textbooks (Pearson/Rizzoli grade 4) teach ettogrammo and decagrammo
+NL,metric_a metric,no,yes,no,cm m,a cm² dm² ha m²,cm³ dm³ l ml,g kg,"Referentiekader taal en rekenen (2010): are, hectare, '1 km2 = … = 100 ha'; ton (1000 kg), g, kg — no decagram"
+PL,metric_dag metric_a metric,yes,yes,no,cm m,a cm² dm² ha m²,cm³ dm³ l ml,dag g kg,"Podstawa programowa (MEN): gram, dekagram, kilogram, tona; ar, hektar"

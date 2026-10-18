@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it."
+title: "Units of measurement and money in school mathematics across 10 countries"
+authors:
+  - name: Imaginesis
+    website: https://imaginesis.com
+date-released: 2026-10-18
+license: CC-BY-4.0
+type: dataset
+url: https://imaginesis.com/en/curricula
