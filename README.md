@@ -8,7 +8,9 @@ and banknotes. Prepared by Imaginesis (https://imaginesis.com), a maths workshee
 worksheet in the units and currency of the country it is for.
 
 Snapshot: 2026-10-18. License: Creative Commons Attribution 4.0 (CC BY 4.0) — cite as
-"Imaginesis units and money in school mathematics, 2026".
+"Imaginesis units and money in school mathematics, 2026, https://doi.org/10.5281/zenodo.23451760".
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23451760.svg)](https://doi.org/10.5281/zenodo.23451760)
 
 ## Files
 
